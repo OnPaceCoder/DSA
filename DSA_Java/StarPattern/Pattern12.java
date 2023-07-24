@@ -17,11 +17,9 @@ public class Pattern12 {
                         System.out.print(j);
                 }
                 for (int j = n; j>i; j--) {
-                        System.out.print(" ");
+                     System.out.print("  ");
                 }
-                 for (int j = i; j<n; j++) {
-                        System.out.print(" ");
-                }
+                
                  for (int j = i; j>0; j--) {
                         System.out.print(j);
                 }
